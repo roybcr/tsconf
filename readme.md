@@ -7,9 +7,3 @@
 ```bash
 $ npm install @roybcr/tsconf
 ```
-
-Or, with **_npx_**:
-
-```bash
-$ npx init @roybcr/tsconf
-```
