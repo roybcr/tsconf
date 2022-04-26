@@ -1,0 +1,21 @@
+{
+  "name": "@roybcr/tsconf",
+  "version": "1.0.0",
+  "description": "Opinionated TypeScript config file for my projects",
+  "repository": "roybcr/tsconf",
+  "author": {
+    "name": "Roy Bachar",
+    "email": "roybcx@proton.me"
+  },
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "ts",
+    "config"
+  ],
+  "files": [
+    "tsconfig.json"
+  ]
+}
